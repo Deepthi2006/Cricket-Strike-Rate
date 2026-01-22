@@ -1,9 +1,3 @@
-Perfect 👍
-Below is a **clean, professional README.md** you can directly paste into your GitHub repo.
-It clearly explains **ML models + XGBoost + Flask frontend** and looks **submission / resume ready**.
-
----
-
 # 🏏 Cricket Strike Rate Prediction using Machine Learning
 
 ## 📌 Project Overview
